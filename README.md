@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello 👋
 
-![aratramba](https://user-images.githubusercontent.com/580312/88065447-e4938100-cb6c-11ea-9472-7343aa1b2dbd.jpg)
+![aratramba](https://user-images.githubusercontent.com/580312/88065652-29b7b300-cb6d-11ea-9ae8-8607b3b9dd50.jpg)
 
 <!--
 **Aratramba/aratramba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
